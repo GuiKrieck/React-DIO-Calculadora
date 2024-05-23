@@ -1,3 +1,24 @@
+# Calculadora - DIO
+
+Repositorio criado para a entrega do projeto da calculadora da DIO utilizando React. Como foi o meu primeiro projeto utilizando React eu ainda to meio perdido no que ta acontecendo. O código básico desse projeto foi nos fornecido durante o curso pelo professor Pablo henrique. a partir dai analisando com calma o código fiz algumas "melhorias".
+
+
+coloquei uma espécie de visor em cima do número "clicado" para o usuário poder ver qual operação ele está realizando;
+
+os botões de multiplicação e divisão;
+
+um botão para porcentagem;
+
+um botão para inverter o número entre positivo e negativo;
+
+verificações para o usuário não poder adicionar zeros a esquerda e nem mais de um ponto no numero;
+
+e uma refatoração no código, ao invés de fazer uma função para cada operação. Fiz uma função genérica que recebe como parametro o tipo de operação a ser realizada e apresenta o resultado.
+
+Enfim estou bastante satisfeito com esse primeiro projeto segue abaixo o repositório fornecido pelo curso =]
+
+Repositório base: https://github.com/digitalinnovationone/trilha-react-desafio01-calculadora
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
